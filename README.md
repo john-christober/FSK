@@ -84,12 +84,12 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-
 ![image](https://github.com/user-attachments/assets/c262bf0c-39dd-4c14-8e5b-cb7f8fe571fb)
-
 
 # Results
 
 The simulation of Frequency shift-Keying(FSK) was successfully performed.The modulated and demodulated waveforms were observed,confirming accurate transmission and recovery of binary data using frequency variations.
 
-# Hardware experiment output waveform.
+# Hardware experiment output waveform
+![WhatsApp Image 2025-04-22 at 22 30 13_e6ff6c18](https://github.com/user-attachments/assets/5554a181-53ca-42bb-86ca-d3064e5fee54)
+
